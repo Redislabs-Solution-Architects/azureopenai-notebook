@@ -8,7 +8,7 @@ It allows you to execute the code step by step and to examine intermediate artif
 
 - Python 3.11
 - An execution environment for Jupyter Notebook. I find that [Anaconda](https://www.anaconda.com/download) works best
-- Python requirements installed: `pip -r requirements.txt`
+- Python requirements installed: `pip install -r requirements.txt`
 
 ## Runnning the Notebook
 
